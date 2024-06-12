@@ -1,5 +1,5 @@
 {
-   "name": "suhail-md-v1",
+   "name": "suhail-md-v1-procfile",
    "version": "1.3.7",
    "description": "Multi device whatsapp bot.",
    "main": "index.js",

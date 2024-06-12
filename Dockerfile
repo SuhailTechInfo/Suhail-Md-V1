@@ -17,6 +17,7 @@
 
 FROM quay.io/suhailtechinfo/suhail-v2
 RUN git clone https://github.com/SuhailTechInfo/Suhail-Md-V1.git /root/smdd
+RUN rm -rf /root/smdd/.git
 WORKDIR /root/smdd/
 RUN rm -rf .git
 RUN npm install

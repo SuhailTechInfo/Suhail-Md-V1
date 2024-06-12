@@ -1,4 +1,4 @@
-web: npm start || node .
+web: npm start
 
 
 
